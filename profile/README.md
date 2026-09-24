@@ -21,5 +21,5 @@ This organization's public repositories are the lab's open output: small, focuse
 ## Contact
 - Website: https://trivoslabs.com
 - Development and technical: dev@trivoslabs.com
-- General: ai@trivoslabs.com
+- General: connect@trivoslabs.com
 - X: @TrivosLabs
